@@ -1,7 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
-  - title: "SpaceDriftHome"
+  - title: "Projects"
     url: /spacedrifthome/    
   - title: "Categories"
     url: /categories/
