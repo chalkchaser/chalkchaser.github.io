@@ -1,6 +1,6 @@
 ---
-permalink: /spacedrifthome/
-title: "spacedrifthome"
+permalink: /projects/
+title: "Projects"
 ---
 
 test
